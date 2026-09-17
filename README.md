@@ -31,25 +31,6 @@ interface Evaluator { evaluate(problem: Problem, submission: Submission): Promis
 
 For slow/failed evaluation, the UI should persist the submission as `submitted`, show `Evaluation in progress`, and retry or expose a `failed` state. No distributed architecture is required.
 
-## Run
-
-```bash
-npm install
-npm run dev
-```
-
-Tests:
-
-```bash
-npm test
-```
-
-Build:
-
-```bash
-npm run build
-```
-
 ## Limitations
 
 - Browser localStorage instead of a backend/authentication.
