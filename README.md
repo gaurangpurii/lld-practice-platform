@@ -38,7 +38,7 @@ For slow/failed evaluation, the UI should persist the submission as `submitted`,
 - Text-based design input rather than a full UML editor.
 - No collaborative editing.
 - No server-side persistence.
-
+ 
 These are intentional scope choices for a two-day MVP.
 
 ## Research note
