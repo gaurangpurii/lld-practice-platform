@@ -3,7 +3,7 @@
 A focused two-day MVP for practicing Low-Level Design through a repeatable loop: **choose a problem → design → submit → get explainable feedback → review → try again**.
 
 ## Product direction
-
+ 
 The prototype deliberately avoids becoming an LMS. A learner provides structured design notes instead of only a class list: requirements/assumptions, responsibilities, relationships/abstractions, behaviour/edge cases, trade-offs, and an optional code sketch. This makes the attempt meaningful even when multiple designs can be valid.
 
 ## Features
