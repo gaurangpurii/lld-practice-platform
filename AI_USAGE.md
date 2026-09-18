@@ -1,7 +1,7 @@
 # AI_USAGE.md
 
 ## 1. Structured submission fields
-**AI suggested:** treating an LLD attempt as a combination of classes, UML and code.
+**AI suggested:** treating an LLD attempt as a combination of classes, UML and code. 
 
 **Accepted with modification:** I made the core submission structured around requirements, responsibilities, relationships, behaviour, trade-offs and optional code. This better targets the actual reasoning being evaluated and avoids requiring a full diagram editor for the MVP.
 
