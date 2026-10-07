@@ -5,7 +5,7 @@ The automated test suite in `tests/evaluator.test.ts` covers:
 - A complete structured design receives a strong score and passes abstraction checks.
 - A thin submission is flagged as incomplete and receives a lower score.
 
-Manual acceptance tests for the browser prototype:
+Manual acceptance tests for the browser prototype: 
 
 1. Open `prototype.html` directly in a browser.
 2. Select a problem and verify the prompt + requirements render.
