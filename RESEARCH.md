@@ -3,7 +3,7 @@
 ## Learner problem
 
 LLD/OOD practice is an open-ended skill. A learner can name classes and design patterns without understanding ownership, behaviour, or why an abstraction exists. The useful unit of practice is therefore not “read a solution”; it is an attempt that can be compared against a rubric and improved on the next iteration.
-
+ 
 ## Existing approaches researched
 
 **Educative — Grokking the Low-Level Design Interview.** The course uses a structured progression through OOP, UML, SOLID, design patterns and 20+ real-world problems. It explicitly teaches requirement gathering, diagrams and code skeletons. This validates a structured, repeatable workflow, but its core product is a course rather than a lightweight feedback loop. Source: https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles
