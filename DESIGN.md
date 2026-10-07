@@ -1,6 +1,6 @@
 # Design Note
 
-## MVP flow
+## MVP flow 
 
 1. Problem Library — select Parking Lot, Elevator or Vending Machine.
 2. Practice — read requirements, reveal staged hints, and fill a structured design.
